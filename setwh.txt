@@ -1,0 +1,17 @@
+1-make bot in @botfather in telegram
+2-get token 
+
+https://api.telegram.org/bot#1/setwebhook?url=https:#2
+#1=your token
+#2=yourfile address in your server
+
+
+result:
+if ({“ok”:true,”result”:true,”description”:”Webhook was set”})
+that means u did evreything right and u r ready to go
+
+enjoy
+
+twitter=ardavan_nafezi
+github:ardavannafezi
+instagram:notardavan
