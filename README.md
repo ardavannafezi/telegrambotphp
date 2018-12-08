@@ -10,3 +10,9 @@ SET WEBHOOK FILE IS IN SETWH.TXT
 *4-USE MY FUNCTION 4 YOUR ROBOT</BR>
 </BR>
 ******INJOUY AND DONT FORGET LIKE AND FOLLOW ME******
+
+
+<a href="telegram.com">telegram</a>
+<a href="twitter.com/ardavan_nafezi">twitter</a>
+<a href="instagram.com/notardavan">instagram</a>
+
